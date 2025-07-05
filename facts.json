@@ -1,0 +1,153 @@
+{
+  "heroSection": {
+    "fullName": "Kamel Ahmed",
+    "professionalTitles": [
+      "AI Engineer",
+      "Full-Stack AI Developer",
+      "Automation Testing Engineer",
+      "Software Engineer"
+    ],
+    "shortIntro": "Building scalable AI & automation solutions for real-world impact.",
+    "profileImage": "assets/img/my-hero-bg.jpg"
+  },
+  "aboutSection": {
+    "fullName": "Kamel Ahmed",
+    "roleTitle": "Full-Stack AI Developer",
+    "profilePhoto": "assets/img/main-profile-pic.jpg",
+    "bio": "I am a highly motivated Full-Stack AI Developer with a strong foundation in data analysis, machine learning, and computer vision. I specialize in building scalable AI-powered products, LLM-based systems, and robust automation testing frameworks for real-world applications. I thrive on problem-solving, continuous learning, and applying AI advancements to drive impactful solutions. With strong team collaboration skills and a commitment to quality, I am passionate about creating systems that make a difference.",
+    "details": {
+      "birthday": "13-Aug-2001",
+      "website": "kamelahmed.com",
+      "phone": "+20 1002074635",
+      "city": "Cairo, Egypt",
+      "age": 23,
+      "degree": "B.Sc. in Computer Science",
+      "email": "kamelahmed395@gmail.com",
+      "freelanceAvailable": "Yes"
+    }
+  },
+  "factsSection": {
+    "happyClients": 3,
+    "projectsCompleted": 3,
+    "hoursOfSupport": "500+",
+    "certifications": 3
+  },
+  "skillsSection": [
+    { "name": "Python", "proficiency": 90 },
+    { "name": "Java", "proficiency": 85 },
+    { "name": "C#", "proficiency": 80 },
+    { "name": "JavaScript", "proficiency": 75 },
+    { "name": "TensorFlow / Keras", "proficiency": 80 },
+    { "name": "Scikit-learn", "proficiency": 80 },
+    { "name": "OpenCV", "proficiency": 75 },
+    { "name": "Pandas / NumPy", "proficiency": 85 },
+    { "name": "PowerBI / Tableau", "proficiency": 70 },
+    { "name": "Oracle SQL / MySQL", "proficiency": 85 },
+    { "name": "MongoDB", "proficiency": 70 },
+    { "name": "Selenium / Cucumber / JUnit5", "proficiency": 85 },
+    { "name": "Postman / RestAssured", "proficiency": 80 },
+    { "name": "Git & GitHub", "proficiency": 90 },
+    { "name": ".NET Backend", "proficiency": 80 },
+    { "name": "Object-Oriented Programming", "proficiency": 90 },
+    { "name": "SOLID Principles", "proficiency": 85 }
+  ],
+  "resumeSection": {
+    "summary": {
+      "statement": "I am a Software Engineer with a passion for leveraging AI and automation to solve practical problems. With a background in building scalable systems, LLM integrations, and advanced automation frameworks, I focus on creating efficient, high-quality solutions. I am eager to continue expanding my expertise in AI and automation while delivering impactful projects.",
+      "name": "Kamel Ahmed",
+      "email": "kamelahmed395@gmail.com",
+      "location": "Cairo, Egypt"
+    },
+    "education": [
+      {
+        "degreeTitle": "B.Sc. in Computer Science",
+        "schoolName": "Helwan University",
+        "duration": "2019 – 2023",
+        "description": "Graduated with Excellent (GPA 3.48). Developed an advanced kidnap detection system using computer vision and deep learning."
+      }
+    ],
+    "experience": [
+      {
+        "jobTitle": "Full-Stack AI Developer",
+        "companyName": "Lind Datacenter",
+        "duration": "Feb 2025 – Present",
+        "location": "El-Maadi, Cairo, Egypt",
+        "description": [
+          "Designed and implemented advanced AI-powered products using LLMs.",
+          "Developed a modern RAG system with custom semantic chunking.",
+          "Built LLM-as-a-Service APIs with secure RESTful endpoints.",
+          "Integrated AI-enhanced development tools to boost efficiency.",
+          "Developed and optimized .NET backend services for AI orchestration.",
+          "Collaborated with teams to design scalable, secure AI solutions."
+        ]
+      },
+      {
+        "jobTitle": "Test Automation Engineer",
+        "companyName": "Unilever",
+        "duration": "Nov 2023 – Jan 2025",
+        "location": "El Sheikh Zaid, Giza, Egypt",
+        "description": [
+          "Built a full-scale automation testing framework from scratch.",
+          "Designed scalable Page Object Model structures.",
+          "Developed parameterized tests with JUnit5 and Cucumber.",
+          "Integrated tests into CI/CD pipelines, improving deployment efficiency.",
+          "Managed and optimized Oracle and MySQL databases, supported GCP applications."
+        ]
+      }
+    ]
+  },
+  "portfolioSection": [
+    {
+      "projectTitle": "Kidnap Detection System",
+      "category": "AI / Computer Vision",
+      "thumbnail": "assets/img/portfolio/app-1.jpg",
+      "description": "Uses deep learning and OpenCV to detect kidnapping and violence in real-time, with vehicle and license plate recognition.",
+      "projectLink": ""
+    },
+    {
+      "projectTitle": "LLM RAG System",
+      "category": "AI / Backend System",
+      "thumbnail": "assets/img/portfolio/app-2.jpg",
+      "description": "Modern RAG system with semantic chunking to enhance information retrieval relevance.",
+      "projectLink": ""
+    },
+    {
+      "projectTitle": "Web App Automation Testing Framework",
+      "category": "Automation Testing",
+      "thumbnail": "assets/img/portfolio/app-3.jpg",
+      "description": "Full-scale automation framework integrated with CI/CD pipelines and API testing.",
+      "projectLink": ""
+    }
+  ],
+  "testimonialsSection": [
+    {
+      "name": "Ahmed Mostafa",
+      "role": "AI Product Manager, Lind Datacenter",
+      "quote": "Kamel demonstrated exceptional technical and problem-solving skills, delivering scalable AI solutions efficiently and collaboratively."
+    },
+    {
+      "name": "Sara Khaled",
+      "role": "QA Lead, Unilever",
+      "quote": "Working with Kamel was a pleasure. His automation frameworks streamlined our testing cycles and ensured high software quality."
+    }
+  ],
+  "contactSection": {
+    "address": "Cairo, Egypt",
+    "email": "kamelahmed395@gmail.com",
+    "phone": "+20 1002074635",
+    "googleMaps": ""
+  },
+  "footer": {
+    "name": "Kamel Ahmed",
+    "copyright": "© 2025 Kamel Ahmed. All Rights Reserved.",
+    "socialLinks": {
+      "LinkedIn": "https://www.linkedin.com/in/kamel-ahmed-1308/",
+      "GitHub": "https://github.com/KamelAhmed813"
+    }
+  },
+  "certifications": [
+    "Google Data Analysis Professional Certificate – Coursera",
+    "Machine Learning Fundamentals Using Python – Datacamp",
+    "Data Analysis with Python Career Track – Datacamp"
+  ]
+}
